@@ -1,5 +1,6 @@
-## Simple ToDo Application
-> This is simple web application that users can add their to-do items to this app and manupulate it using this application
+## Simple Application
+> This is simple web application that users register and update profile.
+
 ### Technologies
 I have used ***MERN stack*** for create almost all of the functionalities of this application.
 To create frontend I use ***React JS*** and for backend I used ***Node JS*** with ***Express***.
@@ -13,7 +14,7 @@ To store data I used ***MongoDB***
 
 #### Clone the applicaiton
 ```
-git clone https://github.com/nu5rim3/todoApp.git
+git clone https://github.com/nu5rim3/user-app
 ```
 #### Run the Application
 Navigate to the backend folder. And then run
